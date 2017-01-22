@@ -1,0 +1,190 @@
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\Images\Knight.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.pdb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.pdb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\swordhit.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\statsui.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbar.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbarback.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabar.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabarback.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Goblin.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDark.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\GameOver.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\mossyfloor.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\floor.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\myfloor.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Ballista.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\knight.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\statsui.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbar.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbarback.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabar.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabarback.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDark.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Goblin.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\mossyfloor.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\floor.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\myfloor.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Ballista.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\swordhit.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\Arial.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\GameOver.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.pdb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.pdb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\bolt.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\shieldhit.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\hurtnoise.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightDown.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightLeft.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightRight.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDown.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinLeft.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinRight.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkDown.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkLeft.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkRight.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\portrait.xnb
+E:\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\white.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\bolt.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightDown.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightLeft.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightRight.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDown.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinLeft.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinRight.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkDown.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkLeft.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkRight.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\portrait.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\white.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\shieldhit.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\hurtnoise.xnb
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe.manifest
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.application
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe.manifest
+C:\Users\Student\Desktop\ALamb\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.application
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\knight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\statsui.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbar.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbarback.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabar.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabarback.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDark.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Goblin.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\mossyfloor.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\floor.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\myfloor.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Ballista.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\bolt.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightDown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightLeft.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightRight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinLeft.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinRight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkDown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkLeft.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkRight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\portrait.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\white.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\swordhit.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\shieldhit.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\hurtnoise.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\Arial.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\GameOver.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe.manifest
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.application
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.pdb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe.manifest
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.application
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.pdb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Meat.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Potion.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoldHelmet.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\SpeedShoes.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\SuperArrow.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGold.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldDown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldLeft.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldRight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeft.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftDizzyDown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftDizzyUp.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightDizzyDown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightDizzyUp.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\RockLeft.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\RockRight.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftThrown.xnb
+F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightThrown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\knight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\statsui.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbar.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbarback.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabar.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabarback.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDark.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Goblin.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\mossyfloor.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\floor.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\myfloor.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Ballista.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\bolt.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightDown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightLeft.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightRight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinLeft.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinRight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkDown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkLeft.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkRight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\portrait.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\white.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Meat.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Potion.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoldHelmet.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\SpeedShoes.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\SuperArrow.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGold.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldDown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldLeft.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldRight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeft.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftDizzyDown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftDizzyUp.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightDizzyDown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightDizzyUp.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\RockLeft.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\RockRight.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftThrown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightThrown.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\swordhit.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\shieldhit.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\hurtnoise.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\Arial.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\GameOver.xnb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe.manifest
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.application
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.exe
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Dungeon Crawlers.pdb
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe.manifest
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.application
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.exe
+J:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\obj\x86\Debug\Dungeon Crawlers.pdb

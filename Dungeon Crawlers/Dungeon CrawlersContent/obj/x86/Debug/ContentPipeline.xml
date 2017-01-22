@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\knight.png</Source>
+      <Name>images\knight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\knight.xnb</Output>
+      <Time>2012-07-17T14:13:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\statsui.png</Source>
+      <Name>images\statsui</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\statsui.xnb</Output>
+      <Time>2012-07-19T15:12:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\healthbar.png</Source>
+      <Name>images\healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbar.xnb</Output>
+      <Time>2012-07-16T10:23:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\healthbarback.png</Source>
+      <Name>images\healthbarback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\healthbarback.xnb</Output>
+      <Time>2012-07-16T10:23:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\manabar.png</Source>
+      <Name>images\manabar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabar.xnb</Output>
+      <Time>2012-07-16T10:40:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\manabarback.png</Source>
+      <Name>images\manabarback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\manabarback.xnb</Output>
+      <Time>2012-07-16T10:41:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinDark.png</Source>
+      <Name>images\GoblinDark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDark.xnb</Output>
+      <Time>2012-07-18T09:18:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Goblin.png</Source>
+      <Name>images\Goblin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Goblin.xnb</Output>
+      <Time>2012-07-17T15:30:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\mossyfloor.png</Source>
+      <Name>images\mossyfloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\mossyfloor.xnb</Output>
+      <Time>2012-07-17T11:02:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\floor.png</Source>
+      <Name>images\floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\floor.xnb</Output>
+      <Time>2012-07-17T11:16:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\myfloor.png</Source>
+      <Name>images\myfloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\myfloor.xnb</Output>
+      <Time>2012-07-18T15:12:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Ballista.png</Source>
+      <Name>images\Ballista</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Ballista.xnb</Output>
+      <Time>2012-07-17T12:55:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\bolt.png</Source>
+      <Name>images\bolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\bolt.xnb</Output>
+      <Time>2012-07-18T10:20:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightDown.png</Source>
+      <Name>images\KnightDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightDown.xnb</Output>
+      <Time>2012-07-18T17:29:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightLeft.png</Source>
+      <Name>images\KnightLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightLeft.xnb</Output>
+      <Time>2012-07-18T17:29:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightRight.png</Source>
+      <Name>images\KnightRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightRight.xnb</Output>
+      <Time>2012-07-18T17:29:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinDown.png</Source>
+      <Name>images\GoblinDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDown.xnb</Output>
+      <Time>2012-07-18T17:46:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinLeft.png</Source>
+      <Name>images\GoblinLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinLeft.xnb</Output>
+      <Time>2012-07-18T17:46:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinRight.png</Source>
+      <Name>images\GoblinRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinRight.xnb</Output>
+      <Time>2012-07-18T17:46:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinDarkDown.png</Source>
+      <Name>images\GoblinDarkDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkDown.xnb</Output>
+      <Time>2012-07-19T14:35:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinDarkLeft.png</Source>
+      <Name>images\GoblinDarkLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkLeft.xnb</Output>
+      <Time>2012-07-19T14:35:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoblinDarkRight.png</Source>
+      <Name>images\GoblinDarkRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoblinDarkRight.xnb</Output>
+      <Time>2012-07-19T14:35:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\portrait.png</Source>
+      <Name>images\portrait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\portrait.xnb</Output>
+      <Time>2012-07-19T15:27:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\white.png</Source>
+      <Name>images\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\white.xnb</Output>
+      <Time>2012-07-19T15:28:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Meat.png</Source>
+      <Name>images\Meat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Meat.xnb</Output>
+      <Time>2012-07-27T21:14:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Potion.png</Source>
+      <Name>images\Potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\Potion.xnb</Output>
+      <Time>2012-07-30T17:50:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\GoldHelmet.png</Source>
+      <Name>images\GoldHelmet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\GoldHelmet.xnb</Output>
+      <Time>2012-07-30T12:24:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\SpeedShoes.png</Source>
+      <Name>images\SpeedShoes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\SpeedShoes.xnb</Output>
+      <Time>2012-08-16T13:28:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\SuperArrow.png</Source>
+      <Name>images\SuperArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\SuperArrow.xnb</Output>
+      <Time>2012-08-17T16:23:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightGold.png</Source>
+      <Name>images\KnightGold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGold.xnb</Output>
+      <Time>2012-08-18T14:17:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightGoldDown.png</Source>
+      <Name>images\KnightGoldDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldDown.xnb</Output>
+      <Time>2012-08-18T14:17:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightGoldLeft.png</Source>
+      <Name>images\KnightGoldLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldLeft.xnb</Output>
+      <Time>2012-08-18T14:17:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\KnightGoldRight.png</Source>
+      <Name>images\KnightGoldRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\KnightGoldRight.xnb</Output>
+      <Time>2012-08-18T14:17:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreLeft.png</Source>
+      <Name>images\OgreLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeft.xnb</Output>
+      <Time>2012-08-19T22:51:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreRight.png</Source>
+      <Name>images\OgreRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRight.xnb</Output>
+      <Time>2012-08-19T22:51:52-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreLeftDizzyDown.png</Source>
+      <Name>images\OgreLeftDizzyDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftDizzyDown.xnb</Output>
+      <Time>2012-08-20T10:52:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreLeftDizzyUp.png</Source>
+      <Name>images\OgreLeftDizzyUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftDizzyUp.xnb</Output>
+      <Time>2012-08-20T10:52:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreRightDizzyDown.png</Source>
+      <Name>images\OgreRightDizzyDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightDizzyDown.xnb</Output>
+      <Time>2012-08-20T10:52:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreRightDizzyUp.png</Source>
+      <Name>images\OgreRightDizzyUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightDizzyUp.xnb</Output>
+      <Time>2012-08-20T10:52:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\RockLeft.png</Source>
+      <Name>images\RockLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\RockLeft.xnb</Output>
+      <Time>2012-08-23T00:10:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\RockRight.png</Source>
+      <Name>images\RockRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\RockRight.xnb</Output>
+      <Time>2012-08-23T00:10:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreLeftThrown.png</Source>
+      <Name>images\OgreLeftThrown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreLeftThrown.xnb</Output>
+      <Time>2012-08-23T11:40:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OgreRightThrown.png</Source>
+      <Name>images\OgreRightThrown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\images\OgreRightThrown.xnb</Output>
+      <Time>2012-08-23T11:40:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\swordhit.wav</Source>
+      <Name>sounds\swordhit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\swordhit.xnb</Output>
+      <Time>2012-07-16T09:33:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\shieldhit.wav</Source>
+      <Name>sounds\shieldhit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\shieldhit.xnb</Output>
+      <Time>2012-07-18T16:13:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\hurtnoise.wav</Source>
+      <Name>sounds\hurtnoise</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\sounds\hurtnoise.xnb</Output>
+      <Time>2012-07-18T17:13:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2012-07-16T09:53:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver.spritefont</Source>
+      <Name>GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\GameOver.xnb</Output>
+      <Time>2012-07-16T18:06:08-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon CrawlersContent\</RootDirectory>
+      <LoggerRootDirectory>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon CrawlersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\project\Projects\Dungeon Crawlers\Dungeon Crawlers\Dungeon Crawlers\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-24T17:49:19.5142281-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
